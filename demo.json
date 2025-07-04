@@ -1,0 +1,24 @@
+{
+    "demo-hoc-online": {
+      "title": "Demo - Học Online",
+      "demo_url": "https:\/\/demo.vietcademy.vn",
+      "default_content": false,
+      "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/vietcademy\/images\/demo_hoc_online.jpg",
+      "category": ""
+    },
+    "demo-lop-hoc": {
+      "title": "Demo - Lớp Học",
+      "demo_url": "https:\/\/demo.vietcademy.vn\/demo-lop-hoc",
+      "default_content": false,
+      "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/vietcademy\/images\/demo_lop_hoc.jpg",
+      "category": ""
+    },
+    "demo-trung-tam": {
+      "title": "Demo - Trung Tâm",
+      "demo_url": "https:\/\/demo.vietcademy.vn\/demo-trung-tam",
+      "default_content": false,
+      "thumbnail_url": "https:\/\/physcodewp.github.io\/demo-data\/vietcademy\/images\/demo_trung_tam.jpg",
+      "category": ""
+    }
+  }
+  
